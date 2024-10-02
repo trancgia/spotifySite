@@ -1,2 +1,0 @@
-# spotifySite
-Spotify data website
